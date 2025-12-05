@@ -28,7 +28,7 @@ I’m open to collaborating on:
 - Projects involving **authentication systems**, **payment integrations**, or **mobile development**.
 
 ## 📫 How to Reach Me
-- 📧 Email: vasilv34@gmail.com
+- 📧 vasilv34@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/vasil-vaso-4593b91a5)
 - 🐙 [GitHub](https://github.com/VasilVaso)
 
